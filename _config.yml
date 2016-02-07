@@ -1,0 +1,28 @@
+name: bryankorourke
+favicon: null
+layout_spectrum: 0.5394817010965198
+typography_spectrum: 0.953546934761107
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1317896714899689
+  lightness: 0.18866059673018754
+  saturation: 0.41486739460378885
+  rhythmicContrast: 0.7155149760656059
+purpose: []
